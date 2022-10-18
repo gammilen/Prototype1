@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f74673138d4c904094f389d893c6f90, type: 3}
+  m_Name: Projectile
+  m_EditorClassIdentifier: 
+  <Prefab>k__BackingField: {fileID: 69890812478818802, guid: fd2fc1dc48dd9b14f8f7a1ccc3fbc1cb, type: 3}
+  <FlightTime>k__BackingField: 1
+  <CollisionDistance>k__BackingField: 0.5

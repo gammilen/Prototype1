@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae407621f247b446b89682df0df176d, type: 3}
+  m_Name: LevelFinish
+  m_EditorClassIdentifier: 
+  _agentsEscaped: {fileID: 11400000, guid: 8c18a29c1850ba74eacc872044cf7752, type: 2}
+  _agentDeathChannel: {fileID: 11400000, guid: 90aa3182f4ae1b3498ebd668642eddb8, type: 2}
+  _levelPreparer: {fileID: 11400000, guid: f3c4ec308dc13ae4f99dca83c1255c84, type: 2}
+  _levels: {fileID: 11400000, guid: 1c94628096b021b42a08d91357795318, type: 2}
+  _level: {fileID: 11400000, guid: 0383bbf116956f54b9a785e0da0a937f, type: 2}
